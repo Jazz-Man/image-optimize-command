@@ -1,5 +1,6 @@
 # typisttech/image-optimize-command
 
+
 [![Packagist](https://img.shields.io/packagist/v/typisttech/image-optimize-command.svg)](https://packagist.org/packages/typisttech/image-optimize-command)
 [![Packagist](https://img.shields.io/packagist/dt/typisttech/image-optimize-command.svg)](https://packagist.org/packages/typisttech/image-optimize-command)
 [![Build Status](https://travis-ci.org/TypistTech/image-optimize-command.svg?branch=master)](https://travis-ci.org/TypistTech/image-optimize-command)
